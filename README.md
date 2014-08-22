@@ -16,25 +16,25 @@ Pembagian Tugas :
 
 Scrum Master and Head of Business Model & Project : Michael
 
-Chief Business Plan & Model Manager : Septian
-Vice Business Plan & Model Manager  : Steven Handoko
+1. Chief Business Plan & Model Manager : Septian
+2. Vice Business Plan & Model Manager  : Steven Handoko
 
-Chief Project Manager 				: Frendy
-Another Chief Project Manajer		: Septian
-Vice Project Manager 				: Jimmy 
+1. Chief Project Manager 				: Frendy
+2. Another Chief Project Manajer		: Septian
+3. Vice Project Manager 				: Jimmy 
 
 DEADLINE : 2 Minggu.
 
 
 Dan ingat, ketika 3 poin sudah selesai, Pembagian nya akan seperti begini :
 
-Head of System Programming : Frendy
-Vice of System Programming : Septian
+1. Head of System Programming : Frendy
+2. Vice of System Programming : Septian
 
-Head of Web Design : Michael
-Vice of Web Design : Jimmy
+1. Head of Web Design : Michael
+2. Vice of Web Design : Jimmy
 
-Head of Marketing & Idea : Steven Handoko
+1. Head of Marketing & Idea : Steven Handoko
 
 DEADLINE : AKAN DIBAHAS LEBIH LANJUT DAN DIPERTIMBANGKAN SESUAI SITUASI DAN KONDISI.
 

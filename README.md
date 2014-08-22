@@ -5,6 +5,7 @@ Repository ini akan kita pergunakan untuk merancang StartUp kita.. Silahkan perg
 Ingat StartUp kita adalah Social MarketPlace Indonesian Handmade
 
 Yang harus kita persiapkan :
+
 1. Nama StartUp
 2. Business Plan & Model
 3. Project Design / Konsep
